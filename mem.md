@@ -1,9 +1,8 @@
-Memorial Descritivo da Graduação em Engenharia de Software na PUC Minas (2022 - 2025)
+# Memorial Descritivo da Graduação em Engenharia de Software na PUC Minas (2022 - 2025)
 
 Beatriz de Oliveira Silveira
 13 de agosto de 2025
 
-# Histórico Acadêmico e Profissional – Beatriz de Oliveira Silveira
 
 Beatriz de Oliveira Silveira concluiu o ensino médio integrado ao curso técnico de Automação Industrial no Instituto Federal de Minas Gerais (IFMG), campus Ouro Preto, em janeiro de 2022. No mesmo ano, em março, ingressou no curso de Bacharelado em Engenharia de Software da Pontifícia Universidade Católica de Minas Gerais (PUC Minas), por meio de aprovação em vestibular. Durante a formação técnica, obteve contato com fundamentos de programação em C, práticas de automação com Arduino e manipulação de Controladores Lógicos Programáveis (CLPs), experiências que proporcionaram uma base sólida e relevante para seu desenvolvimento acadêmico posterior.
 
