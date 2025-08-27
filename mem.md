@@ -18,7 +18,7 @@ Sob a perspectiva da Engenharia de Software, o sistema dialoga diretamente com v
 
 Outro ponto é a integração com serviços externos. O catálogo será hospedado em uma base de dados na nuvem (como Supabase), e o chatbot utilizará integração com APIs de mensageria via WhatsApp (como Evolution API ou Z-API) para garantir funcionamento em tempo real. Essa característica mostra que não se trata de um software isolado, mas de uma aplicação moderna e escalável, preparada para evoluir e se conectar a outros canais digitais, caso seja necessário no futuro.  
 
-Em termos de restrições, o sistema deverá ser de **baixo custo** e deve ser de **fácil utilização**, permitindo que funcionários sem conhecimento técnico consigam atualizar informações no painel administrativo. Esses requisitos não funcionais são essenciais para a adoção real do sistema.  
+Em termos de restrições, o sistema deverá ser de **baixo custo** e de **fácil utilização**, permitindo que funcionários sem conhecimento técnico consigam atualizar informações no painel administrativo. Esses requisitos não funcionais são essenciais para a adoção real do sistema.  
 
 Por fim, a proposta contribui para a **automação** (respostas automáticas de FAQ e consulta de catálogo via WhatsApp), para a **eficiência** (redução de tempo gasto em atendimentos repetitivos) e para a **racionalização de recursos** (uso mais inteligente da equipe de vendas). Dessa forma, o TCC não apenas cumpre os requisitos acadêmicos, mas também entrega valor concreto a um cliente real.  
 
