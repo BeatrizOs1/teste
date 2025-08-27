@@ -1,5 +1,7 @@
 # Caso Previsto na Resolução de TCC I  
+
 Beatriz de Oliveira Silveira  
+
 27 de agosto de 2025  
 
 A **Eletro Rádio Esperança** é uma empresa familiar localizada em Raul Soares/MG, que atua há décadas no setor de móveis e eletrodomésticos. A loja é referência na região e já consolidou a confiança de seus clientes pela qualidade de produtos e pelo atendimento humano próximo. No entanto, o processo de comunicação e venda ainda é altamente manual, baseado em ligações telefônicas, atendimento presencial e trocas de mensagens individuais via WhatsApp pessoal dos vendedores.  
