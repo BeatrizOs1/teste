@@ -2,7 +2,7 @@
 Beatriz de Oliveira Silveira  
 27 de agosto de 2025  
 
-A **Eletro Rádio Esperança** é uma empresa familiar localizada em Raul Soares/MG, que atua há décadas no setor de móveis e eletrodomésticos. A loja é referência na região e já consolidou a confiança de seus clientes pela qualidade de produtos e pelo atendimento humano próximo. No entanto, o processo de comunicação e venda ainda é altamente manual, baseado em ligações telefônicas, atendimento presencial e trocas de mensagens individuais via WhatsApp pessoal dos vendedores.  
+A **Eletro Rádio Esperança** é uma empresa familiar localizada em Raul Soares/MG, que atua há décadas no setor de móveis e eletrodomésticos. A loja é referência na região e já consolidou a confiança de seus clientes pela qualidade de produtos e pelo atendimento humano próximo. No entanto, o processo de comunicação e venda ainda é altamente manual, baseado em ligações telefônicas, atendimento presencial e trocas de mensagens individuais via WhatsApp.  
 
 Esse modelo tradicional traz alguns problemas: clientes precisam aguardar que um vendedor esteja disponível para responder, os preços e promoções muitas vezes não estão atualizados, e não existe padronização nas informações repassadas. Além disso, a ausência de um canal oficial de atendimento via WhatsApp dificulta a organização das conversas e reduz a eficiência do time de vendas, que gasta grande parte do tempo respondendo dúvidas repetitivas sobre estoque, valores e condições de pagamento.  
 
